@@ -1,6 +1,6 @@
 
 
-# <div align="center">JungBear(Jung Sang pil)</div>
+# <div align="center">YU JIMYUNG</div>
 
 ## <div align="center">🔧 Tech Stack</div>
 
