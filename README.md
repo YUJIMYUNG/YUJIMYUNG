@@ -50,4 +50,6 @@ Here are some ideas to get you started:
 🌥️JiMyung Yu🌤️
 <div align="center">
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUJIMYUNG&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
 </div>
