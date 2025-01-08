@@ -25,7 +25,7 @@
 <a><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/></a>&nbsp; -->
-</div>
+
 
 
 
@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 
 🌥️JiMyung Yu🌤️
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
 </div>
