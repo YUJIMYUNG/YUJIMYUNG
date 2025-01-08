@@ -49,15 +49,15 @@ Here are some ideas to get you started:
 
 🌥️JiMyung Yu🌤️
 <div align="center">
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/> -->
 
 <!-- 깃허브 사용평가  -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUJIMYUNG&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats) -->
 </div>
 
 <!-- 언어 사용량 통계 -->
-<div>
+<div display="flex">
     <div>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&layout=compact&theme=aura&langs_count=5)](https://github.com/YUJIMYUNG/github-readme-stats)
     </div>
