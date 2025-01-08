@@ -51,5 +51,10 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUJIMYUNG&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
+<!-- 깃허브 사용레벨  -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUJIMYUNG&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats) -->
+
+<!-- 언어 사용량 통계 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&layout=compact&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
+
 </div>
