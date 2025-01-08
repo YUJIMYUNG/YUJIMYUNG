@@ -64,7 +64,6 @@ Here are some ideas to get you started:
     <div >
         Once I've Used✏
         <!-- html, css, js, 리액트, 자바, 스프링, 스프링부트, 오라클,  mysql, 디비버, 도커, ,vscode 이클립스, 엑스코드, 깃헙, 소스트리, 피그마, 노션, -->
-        <img src="https://img.shields.io/badge/FIgma-#F24E1E?style=for-the-badge&logo=FIgma&logoColor=white">
     </div>
 
 </div>
