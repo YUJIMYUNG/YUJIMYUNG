@@ -47,34 +47,42 @@ Here are some ideas to get you started:
 
 
 
-🌥️JiMyung Yu🌤️
-<div align="center">
-<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/> -->
+# 🌥️JiMyung Yu🌤️
 
-<!-- 깃허브 사용평가  -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUJIMYUNG&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats) -->
+<div align="center">
+
+<!-- Stats Table -->
+<table>
+<tr>
+<td width="50%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&langs_count=5&layout=compact&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
+
+</td>
+<td width="50%">
+
+### Once I've Used ✏️
+
+<div align="center">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
 </div>
 
-<!-- 언어 사용량 통계 -->
-<div display="flex">
-    <div>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&langs_count=5&layout=compact?theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
-    </div>
-    <div >
-        Once I've Used✏
-        <!-- html, css, js, 리액트, 자바, 스프링, 스프링부트, 오라클,  mysql, 디비버, 도커, ,vscode 이클립스, 엑스코드, 깃헙, 소스트리, 피그마, 노션, -->
-       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
-        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+</td>
+</tr>
+</table>
 
-    </div>
+<!-- Optional: Uncomment if you want to use these
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUJIMYUNG&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
+-->
 
 </div>
