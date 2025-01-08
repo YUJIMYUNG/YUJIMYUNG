@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
-
+--> 
 
 
 
@@ -52,14 +51,14 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- Stats Table -->
-<table>
+<table style="border: none;" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%">
+<td width="50%" style="border: none;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&langs_count=5&layout=compact&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: none;">
 
 ### Once I've Used ✏️
 
