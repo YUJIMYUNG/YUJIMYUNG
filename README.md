@@ -46,14 +46,15 @@ Here are some ideas to get you started:
 
 
 
-## 🌥️JiMyung Yu🌤️
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&langs_count=5&layout=compact&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
+## 🌥️JiMyung Yu🌤️
 <!-- Stats Table -->
-<table style="border: none;" cellspacing="0" cellpadding="0">
-<tr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&langs_count=5&layout=compact&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
+
+
 <td width="50%" style="border: none;">
 
 ### 🔧Tech Stack
@@ -70,13 +71,12 @@ Here are some ideas to get you started:
 </td>
 <td width="50%" style="border: none;">
 
-### Once I've Used ✏️
+### ✏️Once I've Used 
 
 <div align="center">
 <!-- 소스트리, 노션, 피그마, 도커,  -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Souretree&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
 </div>
