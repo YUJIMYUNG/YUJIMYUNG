@@ -49,12 +49,22 @@ Here are some ideas to get you started:
 
 🌥️JiMyung Yu🌤️
 <div align="center">
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
 
-<!-- 깃허브 사용레벨  -->
+<!-- 깃허브 사용평가  -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUJIMYUNG&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats) -->
+</div>
 
 <!-- 언어 사용량 통계 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&layout=compact&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
+<div>
+    <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&layout=compact&theme=aura&langs_count=5)](https://github.com/YUJIMYUNG/github-readme-stats)
+    </div>
+    <div >
+        Once I've Used✏
+        <!-- html, css, js, 리액트, 자바, 스프링, 스프링부트, 오라클,  mysql, 디비버, 도커, ,vscode 이클립스, 엑스코드, 깃헙, 소스트리, 피그마, 노션, -->
+        <img src="https://img.shields.io/badge/FIgma-#F24E1E?style=for-the-badge&logo=FIgma&logoColor=white">
+    </div>
 
 </div>
