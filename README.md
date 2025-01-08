@@ -2,7 +2,7 @@
 
 # <div align="center">YU JIMYUNG</div>
 
-## <div align="center">🔧 Tech Stack</div>
+## <div align="center">🔧Tech Stack</div>
 
 <div align="center">
   
@@ -46,23 +46,17 @@ Here are some ideas to get you started:
 
 
 
-# 🌥️JiMyung Yu🌤️
+## 🌥️JiMyung Yu🌤️
 
 <div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&langs_count=5&layout=compact&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
 <!-- Stats Table -->
 <table style="border: none;" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" style="border: none;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUJIMYUNG&langs_count=5&layout=compact&theme=aura)](https://github.com/YUJIMYUNG/github-readme-stats)
-
-</td>
-<td width="50%" style="border: none;">
-
-### Once I've Used ✏️
-
-<div align="center">
+### 🔧Tech Stack
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp;
@@ -73,6 +67,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+</td>
+<td width="50%" style="border: none;">
+
+### Once I've Used ✏️
+
+<div align="center">
+<!-- 소스트리, 노션, 피그마, 도커,  -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Souretree&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
 </div>
 
 </td>
