@@ -62,12 +62,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
 </td>
 <td width="50%" style="border: none;">
 
@@ -76,9 +78,7 @@ Here are some ideas to get you started:
 <div align="center">
 <!-- 소스트리, 노션, 피그마, 도커,  -->
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>&nbsp;
 </div>
 
 </td>
